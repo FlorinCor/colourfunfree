@@ -32,6 +32,4 @@ We may update this policy if the app’s data practices change. The effective da
 
 ## Contact
 
-For privacy questions, please open an issue in the public repository:
-
-<https://github.com/FlorinCor/colourfunfree/issues>
+cordunianuflorin@gmail.com
